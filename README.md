@@ -101,9 +101,9 @@ This structure keep frontend simple and organized.
 
 ---
 
-### Step 1: Install dependencies
+### Install dependencies and run UI
 
-Open terminal in frontend folder:
+Open terminal in frontend folder: `npm run dev`
 
 ## Future Improvements
 
